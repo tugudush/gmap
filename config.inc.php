@@ -67,7 +67,7 @@ date_default_timezone_set('Asia/Manila');
 
 function connect() {
     $host = "localhost";
-    $db_name = "tugudush";
+    $db_name = "gmap";
     $charset = "utf8mb4";
     $db_user = "root";
     $db_password = "accessdenied123";

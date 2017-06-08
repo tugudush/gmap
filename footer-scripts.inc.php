@@ -10,8 +10,6 @@
 <script src="<?php echo $site_url; ?>/js/gsap/easing/EasePack.js"></script>
 <script src="<?php echo $site_url; ?>/js/gsap/plugins/CSSPlugin.js"></script>
 <script src="<?php echo $site_url; ?>/js/gsap/plugins/ScrollToPlugin.js"></script>
-<!-- <script src="<?php echo $site_url; ?>/js/skrollr.js"></script> -->
-<script src="<?php echo $site_url; ?>/js/gmap.js"></script>
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBQ-gmEAAhbWJHql2mjps3k10bThvx_8nI&callback=initMap"></script>
 <script src="<?php echo $site_url; ?>/js/main.js?v=0.0.1"></script>
 <script src="<?php echo $site_url; ?>/js/functions.js?v=0.0.1"></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBQ-gmEAAhbWJHql2mjps3k10bThvx_8nI&callback=initMap"></script>

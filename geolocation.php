@@ -7,7 +7,7 @@ require_once('functions.inc.php');
 <head>
     <?php require_once('meta.inc.php'); ?>
     <meta name="description" content="Page Description">
-    <title>Google Map API</title>    
+    <title>Geolocation - Google Map API</title>    
     <?php require_once('styles.inc.php'); ?>
     <?php include_once('favicons.inc.php'); ?>
     <?php include_once('google-fonts.inc.php'); ?>
@@ -21,7 +21,7 @@ require_once('functions.inc.php');
         </div><!--/.wrap-->
     </div><!--/container-->
     <?php include_once('footer.inc.php'); ?>
-    <script src="<?php echo $site_url; ?>/js/gmap.js"></script>    
+    <script src="<?php echo $site_url; ?>/js/gmap-geolocation.js"></script>    
     <?php require_once('footer-scripts.inc.php'); ?>
 </body>
 </html>
